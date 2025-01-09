@@ -24,3 +24,10 @@ EnemyController - Отвечате за передвижение, анимаци
 SetTargetFrameRate - Попытка ограничить количество кадров в секунду из за проблем с функцией Update
 Win - скрипт отвечающие за победу игрока
 Lose - скрипт отвечающие за поражение игрока
+
+Скриншоты проекта:
+![Снимок экрана 2025-01-09 135208](https://github.com/user-attachments/assets/86b791d1-fb36-4fd6-b086-7fd892997584)
+![Снимок экрана 2025-01-09 135240](https://github.com/user-attachments/assets/8eff2da0-526d-4cef-b819-281bb95be644)
+![Снимок экрана 2025-01-09 135301](https://github.com/user-attachments/assets/33e831dc-450d-4685-b029-710eb3647896)
+
+Видео проекта: https://youtu.be/WiaimDx53lk
